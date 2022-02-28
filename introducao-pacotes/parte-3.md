@@ -17,7 +17,7 @@
 
 ### Publicação Test Pypi
 
-[[publicacao.png]]
+[[images/publicacao.png]]
 
 ### Comando para instalar o pacote de teste
 
@@ -34,7 +34,7 @@
 ```
 
 ### Publicação Pypi
-[[publicacao-2.png]]
+[[images/publicacao-2.png]]
 
 ### Comando para instalar o pacote de teste
 
